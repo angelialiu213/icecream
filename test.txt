@@ -1,3 +1,5 @@
 first time
 这是需要合并的内容--new
-在master分支上提交的内容
+在master分支上提交的内容,这是在mergedemo分支提交的内容
+version1
+version2
